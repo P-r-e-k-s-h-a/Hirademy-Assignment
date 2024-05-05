@@ -1,4 +1,3 @@
-// routes/assistantRoutes.js
 const express = require("express");
 const router = express.Router();
 const Assistant = require("../models/Assistant");
