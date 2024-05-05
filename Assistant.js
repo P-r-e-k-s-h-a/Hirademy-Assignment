@@ -1,4 +1,3 @@
-// models/Assistant.js
 const mongoose = require("mongoose");
 
 const assistantSchema = new mongoose.Schema({
